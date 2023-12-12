@@ -1,0 +1,8 @@
+
+let main be function() {
+  let fibN as i32 be 32 fr
+  let result be "wassap bejing" fr
+  if (fibN > 5) {
+    sayin(result) fr
+  }
+} fr
